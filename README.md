@@ -6,8 +6,6 @@ A full-stack note-sharing web application for college students to organise their
 About The Project
 Notsa was created to solve a common problem for college students: the disorganized and difficult process of sharing study notes, modules, and PDFs. This platform provides a centralized, easy-to-navigate hub where any student can upload materials for a specific subject, and any other student can view them.
 
-This project was built from scratch in Anjarakandy, Kerala, as a complete MERN stack application.
-
 Key Features
 User Authentication: Secure user registration and login using JWT (JSON Web Tokens).
 
