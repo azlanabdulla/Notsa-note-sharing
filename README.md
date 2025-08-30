@@ -1,5 +1,5 @@
 Notsa 📚
-A full-stack note-sharing web application for college students, built with the MERN stack (MongoDB, Express, React, Node.js). Designed to make sharing and accessing course materials simple and efficient.
+A full-stack note-sharing web application for college students to organise their notes with ease, built with the MERN stack (MongoDB, Express, React, Node.js). Designed to make sharing and accessing course materials simple and efficient.
 
 (You should replace the image above with a real screenshot of your application!)
 
